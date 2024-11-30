@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotifyMessage", "NotifyMessage\NotifyMessage.csproj", "{1BF662DF-003B-43F9-9E1F-C5FA0CF8092F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{41622DD9-5228-4CF2-867B-4BDF158BCFF4}"
+	ProjectSection(SolutionItems) = preProject
+		NotifyMessage\NotifyMessage.ico = NotifyMessage\NotifyMessage.ico
+		NotifyMessage\NotifyMessageTray.ico = NotifyMessage\NotifyMessageTray.ico
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF662DF-003B-43F9-9E1F-C5FA0CF8092F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF662DF-003B-43F9-9E1F-C5FA0CF8092F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF662DF-003B-43F9-9E1F-C5FA0CF8092F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF662DF-003B-43F9-9E1F-C5FA0CF8092F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {364A93A1-ED2D-441A-BEF9-7642460EAC51}
+	EndGlobalSection
+EndGlobal
