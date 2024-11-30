@@ -25,12 +25,7 @@ namespace NotifyMessage
                                          "\r\n" +
                                          " Option:\r\n" +
                                          "    /INFO(default) | /WARN | /ERR";
-        private const string MSG_ABOUT = "Thanks to Microsoft Corporation.\r\n" +
-                                         "\r\n" +
-                                         "This program has been developed on\r\n" +
-                                         "   Visual Studio Community 2015\r\n" +
-                                         "   Windows10 Professional 64bit.\r\n" +
-                                         "\r\n" +
+        private const string MSG_ABOUT = "\r\n" +
                                          MSG_USAGE;
 
         public MainForm()
